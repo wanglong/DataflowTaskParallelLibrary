@@ -1,0 +1,11 @@
+D:\doc\VS2017Work\ConsoleAppTpl.Dataflow\ConsoleAppTpl.Dataflow\bin\Debug\netcoreapp2.1\ConsoleAppTpl.Dataflow.deps.json
+D:\doc\VS2017Work\ConsoleAppTpl.Dataflow\ConsoleAppTpl.Dataflow\bin\Debug\netcoreapp2.1\ConsoleAppTpl.Dataflow.runtimeconfig.json
+D:\doc\VS2017Work\ConsoleAppTpl.Dataflow\ConsoleAppTpl.Dataflow\bin\Debug\netcoreapp2.1\ConsoleAppTpl.Dataflow.runtimeconfig.dev.json
+D:\doc\VS2017Work\ConsoleAppTpl.Dataflow\ConsoleAppTpl.Dataflow\bin\Debug\netcoreapp2.1\ConsoleAppTpl.Dataflow.dll
+D:\doc\VS2017Work\ConsoleAppTpl.Dataflow\ConsoleAppTpl.Dataflow\bin\Debug\netcoreapp2.1\ConsoleAppTpl.Dataflow.pdb
+D:\doc\VS2017Work\ConsoleAppTpl.Dataflow\ConsoleAppTpl.Dataflow\obj\Debug\netcoreapp2.1\ConsoleAppTpl.Dataflow.csprojAssemblyReference.cache
+D:\doc\VS2017Work\ConsoleAppTpl.Dataflow\ConsoleAppTpl.Dataflow\obj\Debug\netcoreapp2.1\ConsoleAppTpl.Dataflow.csproj.CoreCompileInputs.cache
+D:\doc\VS2017Work\ConsoleAppTpl.Dataflow\ConsoleAppTpl.Dataflow\obj\Debug\netcoreapp2.1\ConsoleAppTpl.Dataflow.AssemblyInfoInputs.cache
+D:\doc\VS2017Work\ConsoleAppTpl.Dataflow\ConsoleAppTpl.Dataflow\obj\Debug\netcoreapp2.1\ConsoleAppTpl.Dataflow.AssemblyInfo.cs
+D:\doc\VS2017Work\ConsoleAppTpl.Dataflow\ConsoleAppTpl.Dataflow\obj\Debug\netcoreapp2.1\ConsoleAppTpl.Dataflow.dll
+D:\doc\VS2017Work\ConsoleAppTpl.Dataflow\ConsoleAppTpl.Dataflow\obj\Debug\netcoreapp2.1\ConsoleAppTpl.Dataflow.pdb
